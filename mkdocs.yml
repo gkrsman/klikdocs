@@ -1,0 +1,5 @@
+site_name: Klik Oglasi Dokumentacija
+nav:
+    - Početna: index.md
+    - Postavljanje oglasa: postavljanje-oglasa.md
+theme: readthedocs
